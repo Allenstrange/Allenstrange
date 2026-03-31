@@ -15,7 +15,7 @@ Here are some of the key repositories in my portfolio:
 
 * **[air-quality-analysis](https://github.com/Allenstrange/air-quality-analysis)**: A comprehensive analysis of Beijing's Air Quality using multi-station PRSA data, featuring a Streamlit dashboard.
 * **[data-science-portfolio](https://github.com/Allenstrange/data-science-portfolio)**: A collection of my data science projects, including gold price prediction and house price prediction pipelines.
-* **[earlycode-assignment-folder](https://github.com/Allenstrange/earlycode-assignment-folder)**: A repository containing my learning progression and foundational assignments in Python and data analytics.
+* **[data-science-learning](https://github.com/Allenstrange/data-science-learning)**: A repository containing my learning progression and foundational assignments in Python and data analytics.
 
 ## 🌱 Currently Learning
 
