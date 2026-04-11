@@ -89,3 +89,5 @@
 
   
 **LinkedIn:** [Allen Chima](https://www.linkedin.com/in/allen-chima/)
+
+**Portfolio:** [allenstrange.github.io](https://allenstrange.github.io)
