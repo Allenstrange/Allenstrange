@@ -1,29 +1,77 @@
-# 👋 Hi, I'm Allen Chima (@Allenstrange)
+# Hi, I'm Allen Chima
 
-Welcome to my GitHub profile! I am passionate about **Data Science**, **Machine Learning**, and **Python Programming**. I enjoy working with data to extract insights, build predictive models, and create interactive dashboards.
+  **MSc Data Science Student** | Python Developer | Data Analyst
 
-## 🛠️ Skills & Technologies
+  I'm passionate about turning complex data into clear, actionable insights. Currently completing my MSc in Data Science, I work across the full data science stack — from database design and big data processing to spatial analysis, interactive visualisations, and machine learning.
 
-* **Languages:** Python
-* **Data Science & ML:** Pandas, NumPy, Scikit-Learn, Jupyter Notebooks
-* **Data Visualization & Apps:** Matplotlib, Seaborn, Streamlit
-* **Version Control:** Git, GitHub
+  ---
 
-## 📂 Featured Projects
+  ## MSc Data Science Modules
 
-Here are some of the key repositories in my portfolio:
+  | Repository | Module | Semester | Focus |
+  |------------|--------|----------|-------|
+  | [HIV-Antiretroviral-Therapy-ART-Coverage](https://github.com/Allenstrange/HIV-Antiretroviral-Therapy-ART-Coverage) | DAS7000 — Data Analytics & Visualisation | S1 | EDA, Plotly, interactive mapping |
+  | [air-quality-analysis](https://github.com/Allenstrange/air-quality-analysis) | CMP7005 — Programming for Data Analysis | S1 | Python, pandas, Streamlit dashboard |
+  | [CMP7005-Programming-for-Data-Analysis](https://github.com/Allenstrange/CMP7005-Programming-for-Data-Analysis) | CMP7005 — Programming for Data Analysis | S1 | Module overview & slides |
+  | [Big-Data-for-Enterprise_S2_24](https://github.com/Allenstrange/Big-Data-for-Enterprise_S2_24) | DAS7001 — Big Data for Enterprise | S2 | MongoDB, NoSQL, enterprise architecture |
+  | [Big-Data-Technologies](https://github.com/Allenstrange/Big-Data-Technologies) | DSA7002 — Big Data Technologies | S2 | Apache Spark, PySpark, distributed computing |
+  | [Geospatial-Analysis_S2_24](https://github.com/Allenstrange/Geospatial-Analysis_S2_24) | DAS7003 — Geospatial Analysis | S2 | GeoPandas, spatial visualisation |
+  | [CST7001-Research-and-Professional-Practice](https://github.com/Allenstrange/CST7001-Research-and-Professional-Practice) | CST7001 — Research & Professional Practice | S2 | Academic research, ethics, professional skills |
 
-* **[air-quality-analysis](https://github.com/Allenstrange/air-quality-analysis)**: A comprehensive analysis of Beijing's Air Quality using multi-station PRSA data, featuring a Streamlit dashboard.
-* **[data-science-portfolio](https://github.com/Allenstrange/data-science-portfolio)**: A collection of my data science projects, including gold price prediction and house price prediction pipelines.
-* **[data-science-learning](https://github.com/Allenstrange/data-science-learning)**: A repository containing my learning progression and foundational assignments in Python and data analytics.
+  ---
 
-## 🌱 Currently Learning
+  ## Data Science Projects
 
-I am continuously expanding my skill set in advanced machine learning techniques, data engineering, and building robust data pipelines.
+  | Repository | Description |
+  |------------|-------------|
+  | [HIV-Antiretroviral-Therapy-ART-Coverage](https://github.com/Allenstrange/HIV-Antiretroviral-Therapy-ART-Coverage) | Interactive EDA of global HIV ART coverage (2010–2021) using UNICEF/UNAIDS data, Plotly, Choropleth maps, and Sankey diagrams |
+  | [air-quality-analysis](https://github.com/Allenstrange/air-quality-analysis) | Beijing air quality analysis across 12 PRSA monitoring stations with a Streamlit dashboard |
+  | [data-science-portfolio](https://github.com/Allenstrange/data-science-portfolio) | Gold price prediction & house price prediction pipeline using Scikit-Learn |
 
-## 📫 Let's Connect!
+  ---
 
-* **GitHub:** [@Allenstrange](https://github.com/Allenstrange)
+  ## Skills & Technologies
 
----
-⭐️ *Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate.*
+  **Languages & Core Tools**
+  Python · SQL · Markdown · Git
+
+  **Data Science & Machine Learning**
+  pandas · NumPy · Scikit-Learn · SciPy · Jupyter Notebooks
+
+  **Data Visualisation**
+  Matplotlib · Seaborn · Plotly · Folium
+
+  **Big Data & Databases**
+  Apache Spark · PySpark · MongoDB · PyMongo · Hadoop
+
+  **Geospatial**
+  GeoPandas · Folium · QGIS
+
+  **Web & Dashboards**
+  Streamlit
+
+  **Version Control**
+  Git · GitHub
+
+  ---
+
+  ## Learning Journey
+
+  | Repository | Description |
+  |------------|-------------|
+  | [data-science-learning](https://github.com/Allenstrange/data-science-learning) | Foundational Python and data analysis assignments — the starting point of this journey |
+
+  ---
+
+  ## Currently Working On
+
+  - MSc Dissertation (Semester 3)
+  - Expanding skills in deep learning and neural networks
+  - Building end-to-end ML pipelines for real-world datasets
+
+  ---
+
+  **GitHub:** [@Allenstrange](https://github.com/Allenstrange)
+
+  *Feel free to explore the repositories and reach out if you'd like to connect or collaborate.*
+  
