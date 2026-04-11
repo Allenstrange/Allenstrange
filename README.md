@@ -74,4 +74,18 @@
   **GitHub:** [@Allenstrange](https://github.com/Allenstrange)
 
   *Feel free to explore the repositories and reach out if you'd like to connect or collaborate.*
+
+  ---
+
+  ## GitHub Stats
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Allenstrange&show_icons=true&theme=default&count_private=true&hide_border=true" alt="Allen's GitHub Stats" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allenstrange&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+  </p>
+
   
+**LinkedIn:** [Allen Chima](https://www.linkedin.com/in/allen-chima/)
